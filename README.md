@@ -15,7 +15,7 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 
 ```
 @material-ui/icons
-@material-ui/core,
+@material-ui/core
 ```
 
 ### Instalación 🔧
