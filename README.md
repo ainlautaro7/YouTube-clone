@@ -1,6 +1,6 @@
 # YouTube-Clone
 
-En este proyecto se clono la pagina de inicio de youtube.com
+En este proyecto se clono la pagina de inicio de youtube.com (modo escritorio)
 
 ## Comenzando 🚀
 
