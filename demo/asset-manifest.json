@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/demo/YouTube-clone/static/css/main.bc2b5358.chunk.css",
+    "main.js": "/demo/YouTube-clone/static/js/main.99720117.chunk.js",
+    "main.js.map": "/demo/YouTube-clone/static/js/main.99720117.chunk.js.map",
+    "runtime-main.js": "/demo/YouTube-clone/static/js/runtime-main.58d05090.js",
+    "runtime-main.js.map": "/demo/YouTube-clone/static/js/runtime-main.58d05090.js.map",
+    "static/js/2.2972c2ec.chunk.js": "/demo/YouTube-clone/static/js/2.2972c2ec.chunk.js",
+    "static/js/2.2972c2ec.chunk.js.map": "/demo/YouTube-clone/static/js/2.2972c2ec.chunk.js.map",
+    "index.html": "/demo/YouTube-clone/index.html",
+    "static/css/main.bc2b5358.chunk.css.map": "/demo/YouTube-clone/static/css/main.bc2b5358.chunk.css.map",
+    "static/js/2.2972c2ec.chunk.js.LICENSE.txt": "/demo/YouTube-clone/static/js/2.2972c2ec.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/demo/YouTube-clone/static/media/alternate-gothic-no-2.301fc7bc.otf",
+    "static/media/video-landscape-hover.d43a3bad.webp": "/demo/YouTube-clone/static/media/video-landscape-hover.d43a3bad.webp",
+    "static/media/video-landscape.0e4b9d7e.webp": "/demo/YouTube-clone/static/media/video-landscape.0e4b9d7e.webp",
+    "static/media/youtube-brand.ce153c01.png": "/demo/YouTube-clone/static/media/youtube-brand.ce153c01.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58d05090.js",
+    "static/js/2.2972c2ec.chunk.js",
+    "static/css/main.bc2b5358.chunk.css",
+    "static/js/main.99720117.chunk.js"
+  ]
+}
