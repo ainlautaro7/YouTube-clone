@@ -24,7 +24,7 @@ para poder bajar el repositorio solo debe de clonarlo, con el siguiente link:
 https://github.com/ainlautaro7/YouTube-clone.git/
 
 o tambien puede acceder a la demo sin necesidad de bajar el repositorio:
-https://ainlautaro7.github.io/demo/YouTube-clone/
+https://ainlautaro7.github.io/portfolio/proyectos/youtube-clone/
 
 ## Construido con 🛠️
 
